@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/resume_react/static/css/main.abd64e84.css",
+    "main.js": "/resume_react/static/js/main.86e85a7c.js",
+    "index.html": "/resume_react/index.html",
+    "main.abd64e84.css.map": "/resume_react/static/css/main.abd64e84.css.map",
+    "main.86e85a7c.js.map": "/resume_react/static/js/main.86e85a7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.86e85a7c.js"
+  ]
+}
